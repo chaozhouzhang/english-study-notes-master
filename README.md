@@ -278,3 +278,31 @@ scoped storage
 ```
 
 
+```
+consistently
+一贯地
+一致地
+坚实地
+```
+
+```
+corresponding
+相当的
+相应的
+一致的
+类似
+相配
+```
+
+
+```
+retained
+保留的
+保留
+保存
+```
+
+
+
+
+
