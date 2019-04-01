@@ -47,3 +47,39 @@ OTA（Over－the－Air Technology）
 Android设备首先会与OTA服务器进行交互，如果有更新会推送给手机，包含OTA更新包的下载地址和版本信息。
 ```
 
+
+```
+alternatively
+非此即彼
+作为一种选择
+二者择一地
+```
+
+```
+approach
+方法
+途径
+接近
+靠近
+```
+
+```
+automated
+自动化的
+机械化的
+
+automated testing
+自动化测试
+```
+
+```
+regression
+回归
+退化
+逆行
+复原
+
+regression testing
+回归测试
+```
+
