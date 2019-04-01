@@ -217,7 +217,13 @@ compatibility
 兼容性
 ```
 ```
+considerations
 考虑
 注意事项
-considerations
+```
+
+```
+activate
+刺激
+激活
 ```
