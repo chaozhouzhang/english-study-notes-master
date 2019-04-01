@@ -128,3 +128,9 @@ characteristics
 various
 不同的
 ```
+
+```
+AVD
+Android Virtual Device
+安卓虚拟设备
+```
