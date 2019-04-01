@@ -6,6 +6,7 @@ beta
 B, β
 the second letter of the Greek alphabet
 希腊字母表的第2个字母
+测试版
 ```
 
 ```
@@ -83,3 +84,47 @@ regression testing
 回归测试
 ```
 
+```
+instructions
+指令
+说明
+```
+
+```
+recommend
+推荐
+介绍
+建议
+```
+
+```
+configuring
+配置
+```
+
+```
+features
+特征
+特性
+特色
+```
+
+```
+convenient
+方便的
+```
+
+```
+emulate
+模拟
+```
+
+```
+characteristics
+特性
+```
+
+```
+various
+不同的
+```
