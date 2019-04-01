@@ -134,3 +134,8 @@ AVD
 Android Virtual Device
 安卓虚拟设备
 ```
+
+```
+pixel
+像素
+```
